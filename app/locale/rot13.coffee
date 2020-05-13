@@ -152,6 +152,13 @@ module.exports = nativeDescription: "rot13", englishDescription: "English with t
     want_coco: "Jnag PbqrPbzong ng lbhe fpubby?"
     educator: "Rqhpngbe"
     student: "Fghqrag"
+    our_coding_programs: "Bhe Pbqvat Cebtenzf"
+    codecombat: "PbqrPbzong"
+    ozaria: "Bmnevn"
+    codecombat_blurb: "Bhe bevtvany pbqvat tnzr. Erpbzzraqrq sbe cneragf, vaqvivqhnyf, rqhpngbef, naq fghqragf jub jnag gb rkcrevrapr bar bs gur zbfg-ybirq pbqvat tnzrf va gur jbeyq."
+    ozaria_blurb: "Na nqiragher tnzr naq Pbzchgre Fpvrapr cebtenz jurer fghqragf znfgre gur ybfg zntvp bs pbqvat gb fnir gurve jbeyq. Erpbzzraqrq sbe rqhpngbef naq fghqragf."
+    try_codecombat: "Gel PbqrPbzong"
+    try_ozaria: "Gel Bmnevn"
 
   nav:
     educators: "Rqhpngbef"
@@ -1236,7 +1243,7 @@ module.exports = nativeDescription: "rot13", englishDescription: "English with t
     school_name: "Fpubby Anzr"
     city: "Pvgl"
     state: "Fgngr / Ertvba"
-    country: "Pbhagel"
+    country: "Pbhagel / Ertvba"
     num_students_help: "Ubj znal fghqragf jvyy hfr PbqrPbzong?"
     num_students_default: "Fryrpg Enatr"
     education_level_label: "Rqhpngvba Yriry bs Fghqragf"
@@ -1647,8 +1654,8 @@ module.exports = nativeDescription: "rot13", englishDescription: "English with t
     certificate_btn_print: "Cevag"
     certificate_btn_toggle: "Gbttyr"
     ask_next_course: "Jnag gb cynl zber? Nfx lbhe grnpure sbe npprff gb gur arkg pbhefr."
-    set_start_locked_level: "Frg fgneg ybpxrq yriry"
-    no_level_limit: "Ab yvzvg"
+    set_start_locked_level: "Nffvta hc gb yriry"
+    no_level_limit: "--"
 
   project_gallery:
     no_projects_published: "Or gur svefg gb choyvfu n cebwrpg va guvf pbhefr!"
@@ -2721,7 +2728,7 @@ module.exports = nativeDescription: "rot13", englishDescription: "English with t
     third_party_description: "PbqrPbzong hfrf gur sbyybjvat guveq cnegl freivprf (nzbat bguref):"
     cookies_message: 'PbqrPbzong hfrf n srj rffragvny naq aba-rffragvny pbbxvrf.'
     cookies_deny: 'Qrpyvar aba-rffragvny pbbxvrf'
-    cookies_allow: 'Nyybj pbbxvrf' # {punatr}
+    cookies_allow: 'Nyybj pbbxvrf'
 
   ladder_prizes:
     title: "Gbheanzrag Cevmrf"  # Guvf frpgvba jnf sbe na byq gbheanzrag naq qbrfa'g arrq arj genafyngvbaf abj.

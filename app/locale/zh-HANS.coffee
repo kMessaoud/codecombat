@@ -1,9 +1,9 @@
 module.exports = nativeDescription: "简体中文", englishDescription: "Chinese (Simplified)", translation:
 
   new_home:
-    title: "CodeCombat官方｜信息学奥赛｜AI世青赛｜少儿编程等级认证"
-    meta_keywords: "青少年编程, 少儿编程, CodeCombat官网,CodeCombat中文,游戏化编程,AI世青赛,信息学奥赛,奥佳睿,CodeCombat地牢"
-    meta_description: "CodeCombat中国唯一官方网站，支持Python, C++, JavaScript, 美国大学理事会（AP)认证，AI世青赛全球独家技术平台，支持中美信息学奥赛(NOI, CSP-J/S, USACO)、电子学会考试和国际青少年编程认证。"
+    title: "扣哒世界|CodeCombat中国|AI世青赛|少儿编程等级认证"
+    meta_keywords: "扣哒世界, 青少年编程, 少儿编程, 信息学奥赛, CodeCombat官网,CodeCombat中文,游戏化编程,AI世青赛,信息学奥赛,奥佳睿,CodeCombat中国"
+    meta_description: "扣哒世界，CodeCombat中国唯一官方网站，支持Python, C++, JavaScript, 美国大学理事会（AP)认证，AI世青赛全球独家技术平台，支持中美信息学奥赛(NOI, CSP-J/S, USACO)、电子学会考试和国际青少年编程认证。"
     meta_og_url: "https://koudashijie.com"
     built_for_teachers_title: "一个以教师为中心的课程体系"
     built_for_teachers_blurb: "教孩子们写代码往往会觉得无从下手。 CodeCombat 旨在帮助所有的教育工作者传授学生学习和掌握当下最流行的两种计算机语言，JavaScript 和 Python。整个体系包含六门计算机科学课程，以及通过基于项目的游戏开发和网页开发单元巩固学习，教会孩子们一步步从基本语法到高级递归前进！"
@@ -153,6 +153,13 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     want_coco: "把 CodeCombat 带到您的学校？"
 #    educator: "Educator"
 #    student: "Student"
+#    our_coding_programs: "Our Coding Programs"
+#    codecombat: "CodeCombat"
+#    ozaria: "Ozaria"
+#    codecombat_blurb: "Our original coding game. Recommended for parents, individuals, educators, and students who want to experience one of the most-loved coding games in the world."
+#    ozaria_blurb: "An adventure game and Computer Science program where students master the lost magic of coding to save their world. Recommended for educators and students."
+#    try_codecombat: "Try CodeCombat"
+#    try_ozaria: "Try Ozaria"
 
   nav:
     educators: "教育者"
@@ -436,7 +443,7 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     books: "书籍"
 
   common:
-    default_title: "CodeCombat - 在场景化编程中学习Python，Javascript和C++"
+    default_title: "扣哒世界 - 在场景化编程中学习Python，Javascript和C++"
     default_meta_description: "通过场景化教学学习输入真实的代码。 在解决难题的同时掌握Python，JavaScript和C++，并学习制作自己的代码游戏和网站。"
     back: "返回" # When used as an action verb, like "Navigate backward"
     coming_soon: "敬请期待！"
@@ -1219,9 +1226,9 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     role_default: "选择职业"
     primary_role_default: "（请选择）"
     purchaser_role_default: "（请选择）"
-    tech_coordinator: "技术负责人"
+    tech_coordinator: "其它"
     advisor: "顾问" # {change}
-    principal: "校长"
+    principal: "学校/机构"
     superintendent: "主管"
     parent: "家长"
     purchaser_role_label: "您的采购员角色"
@@ -1236,7 +1243,7 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     school_name: "学校或机构名称"
     city: "市（直辖市可填无）"
     state: "省/直辖市" # {change}
-    country: "国家"
+    country: "国家/地区"
     num_students_help: "您估计有多少学生加入CodeCombat？" # {change}
     num_students_default: "选择数量范围"
     education_level_label: "学生的教育程度"
@@ -1249,13 +1256,13 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     referrer: "您是怎么知道我们的？"
 #    referrer_help: "For example: from another teacher, a conference, your students, Code.org, etc."
     referrer_default: "选择一个"
-#    referrer_conference: "Conference (e.g. ISTE)"
-    referrer_hoc: "Code.org/Hour of Code"
+    referrer_conference: "展会"
+    referrer_hoc: "比赛"
     referrer_teacher: "老师"
-    referrer_admin: "管理员"
+    referrer_admin: "百度"
     referrer_student: "学生"
-    referrer_pd: "专业培训/讲习班"
-    referrer_web: "Google"
+    referrer_pd: "知乎"
+    referrer_web: "家长"
     referrer_other: "其他"
     anything_else: "您还有什么建议？" # {change}
     anything_else_helper: "也可留下您的微信号，我们会为您提供更多帮助"
@@ -1647,8 +1654,8 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     certificate_btn_print: "打印"
     certificate_btn_toggle: "中英切换"
     ask_next_course: "想继续学习下一个课程？请联系老师或家长获取帮助"
-    set_start_locked_level: "设置要锁定的起始关卡"
-    no_level_limit: "无限制"
+    set_start_locked_level: "设置要锁定的起始关卡" # {change}
+    no_level_limit: "无限制" # {change}
 
   project_gallery:
     no_projects_published: "成为第一个在这个课程中发布项目的人吧！"

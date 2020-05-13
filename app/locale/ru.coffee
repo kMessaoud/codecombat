@@ -153,6 +153,13 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     want_coco: "Хотите CodeCombat в вашей школе?"
     educator: "Учитель"
     student: "Ученик"
+#    our_coding_programs: "Our Coding Programs"
+#    codecombat: "CodeCombat"
+#    ozaria: "Ozaria"
+#    codecombat_blurb: "Our original coding game. Recommended for parents, individuals, educators, and students who want to experience one of the most-loved coding games in the world."
+#    ozaria_blurb: "An adventure game and Computer Science program where students master the lost magic of coding to save their world. Recommended for educators and students."
+#    try_codecombat: "Try CodeCombat"
+#    try_ozaria: "Try Ozaria"
 
   nav:
     educators: "Учителям"
@@ -1647,8 +1654,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
 #    certificate_btn_print: "Print"
 #    certificate_btn_toggle: "Toggle"
 #    ask_next_course: "Want to play more? Ask your teacher for access to the next course."
-#    set_start_locked_level: "Set start locked level"
-#    no_level_limit: "No limit"
+#    set_start_locked_level: "Assign up to level"
+#    no_level_limit: "--"
 
 #  project_gallery:
 #    no_projects_published: "Be the first to publish a project in this course!"

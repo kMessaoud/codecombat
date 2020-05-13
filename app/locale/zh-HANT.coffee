@@ -153,6 +153,13 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     want_coco: "想要在您的學校進行CodeCombat嗎？"
     educator: "教學人員"
     student: "學生"
+#    our_coding_programs: "Our Coding Programs"
+#    codecombat: "CodeCombat"
+#    ozaria: "Ozaria"
+#    codecombat_blurb: "Our original coding game. Recommended for parents, individuals, educators, and students who want to experience one of the most-loved coding games in the world."
+#    ozaria_blurb: "An adventure game and Computer Science program where students master the lost magic of coding to save their world. Recommended for educators and students."
+#    try_codecombat: "Try CodeCombat"
+#    try_ozaria: "Try Ozaria"
 
   nav:
 #    educators: "Educators"
@@ -1236,7 +1243,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
 #    school_name: "School Name"
     city: "城市"
     state: "州" # {change}
-    country: "國家"
+    country: "國家 / 地區"
     num_students_help: "您預估將有多少人加入CodeCombat?" # {change}
     num_students_default: "選擇範圍"
     education_level_label: "學生們的教育程度"
@@ -1647,8 +1654,8 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
 #    certificate_btn_print: "Print"
 #    certificate_btn_toggle: "Toggle"
 #    ask_next_course: "Want to play more? Ask your teacher for access to the next course."
-#    set_start_locked_level: "Set start locked level"
-#    no_level_limit: "No limit"
+#    set_start_locked_level: "Assign up to level"
+#    no_level_limit: "--"
 
 #  project_gallery:
 #    no_projects_published: "Be the first to publish a project in this course!"
